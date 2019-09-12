@@ -207,7 +207,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 <hr/>
 
 <h2 id="registration">Registration</h2>
-<p>Please register <a https://forms.gle/qxwcJ9fBs8s6yKyW7">here</a>.</p>
+<p>Please register <a href="https://forms.gle/qxwcJ9fBs8s6yKyW7">here</a>.</p>
 <hr/>
 
 {% comment %}
